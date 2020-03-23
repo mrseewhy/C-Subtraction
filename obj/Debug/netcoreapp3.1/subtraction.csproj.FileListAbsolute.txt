@@ -1,0 +1,13 @@
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.exe
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.deps.json
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.runtimeconfig.json
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.runtimeconfig.dev.json
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.dll
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\bin\Debug\netcoreapp3.1\subtraction.pdb
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.csprojAssemblyReference.cache
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.AssemblyInfoInputs.cache
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.AssemblyInfo.cs
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.dll
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.pdb
+C:\Users\Segun\OneDrive\Desktop\news\subtraction\obj\Debug\netcoreapp3.1\subtraction.genruntimeconfig.cache
